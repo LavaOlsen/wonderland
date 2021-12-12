@@ -1,2 +1,12 @@
 # testing
 
+
+```{r}
+library(tidyverse)
+members <- read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-09-22/members.csv")
+
+members
+
+```
+
+
